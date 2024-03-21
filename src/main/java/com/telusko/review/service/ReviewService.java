@@ -1,4 +1,6 @@
-package com.telusko.review;
+package com.telusko.review.service;
+
+import com.telusko.review.model.Review;
 
 import java.util.List;
 

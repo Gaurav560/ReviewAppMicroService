@@ -1,8 +1,8 @@
 package com.telusko.review.impl;
 
-import com.telusko.review.Review;
-import com.telusko.review.ReviewRepository;
-import com.telusko.review.ReviewService;
+import com.telusko.review.model.Review;
+import com.telusko.review.repo.ReviewRepository;
+import com.telusko.review.service.ReviewService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

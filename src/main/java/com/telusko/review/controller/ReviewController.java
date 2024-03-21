@@ -1,5 +1,7 @@
-package com.telusko.review;
+package com.telusko.review.controller;
 
+import com.telusko.review.service.ReviewService;
+import com.telusko.review.model.Review;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -1,4 +1,4 @@
-package com.telusko.review;
+package com.telusko.review.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

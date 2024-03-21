@@ -1,5 +1,6 @@
-package com.telusko.review;
+package com.telusko.review.repo;
 
+import com.telusko.review.model.Review;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
